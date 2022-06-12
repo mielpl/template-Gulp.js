@@ -1,6 +1,6 @@
 # Шаблон для проектов HTML CSS JS only
   ## Как воспроизводить?
- Загрузите файлы через GitHub или [по ссылке](https://github.com/mielpl/shablon-Gulp)
+ Загрузите файлы через GitHub или [по ссылке](https://github.com/mielpl/template-Gulp.js)
  В командную строку пишите:
  `npm install`
 Зайдите на этот [сайт](https://tinypng.com/), регистрируйтесь и получите API. Вставьте API на файл `gulp/tasks/img.js` на строку 8. За тем пишите:
